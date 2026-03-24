@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Yan Moreira Segura, tenho 21 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no colégio Pedro II. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR. Sou apaixonado por tecnologia, sou uma pessoa dedicada, proativa e sempre em busca de novos conhecimentos na área.
+Me chamo Yan Moreira Segura, tenho 21 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no colégio Pedro II. Atualmente, estou cursando Engenharia de Software na UVA. Sou apaixonado por tecnologia, sou uma pessoa dedicada, proativa e sempre em busca de novos conhecimentos na área.
 
 
 ---
